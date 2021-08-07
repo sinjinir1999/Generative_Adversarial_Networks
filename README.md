@@ -1,5 +1,5 @@
 
-# Generative Adversarial Networks
+# 🚀Generative Adversarial Networks
 
 - Vanilla GAN (DCGAN)
 - Conditional GAN (CGAN)
