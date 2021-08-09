@@ -22,7 +22,3 @@
 ## Auxiliary Classifier GAN (AC-GAN)
 - Link to paper: https://arxiv.org/abs/1610.09585
 - ![image](https://user-images.githubusercontent.com/67474818/128603435-c7f46044-dfb5-43ba-afc8-923624652d81.png)
-
-## Bi-directional GAN (BiGAN)
-- Link to paper: https://arxiv.org/abs/1605.09782
-- ![image](https://user-images.githubusercontent.com/67474818/128603475-8af7aa86-b085-41dc-9785-97c138f4a96e.png)
