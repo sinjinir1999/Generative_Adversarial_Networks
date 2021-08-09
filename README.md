@@ -4,7 +4,7 @@
 - Vanilla Generative Adversarial Networks (DC-GAN)
 - Conditional Generative Adversarial Networks (C-GAN)
 - Auxiliary Classifier Generative Adversarial Networks (AC-GAN)
-- 
+
 
 ## 🛠 Acknowledgement
 
