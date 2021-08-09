@@ -6,6 +6,11 @@
 - Auxiliary Classifier GAN (AC-GAN)
 - Bi-directional GAN (BiGAN)
 
+## 🛠 Acknowledgement
+
+ - [GAN LAB](https://poloclub.github.io/)
+
+
 ## Vanilla GAN (DCGAN)
 - Link to paper: https://arxiv.org/abs/1406.2661
 - ![image](https://user-images.githubusercontent.com/67474818/128603379-19028a3e-c3e0-4a1a-82b2-47acf8dae88c.png)
