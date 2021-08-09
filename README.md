@@ -8,7 +8,7 @@
 
 ## 🛠 Acknowledgement
 
- - [GAN LAB](https://poloclub.github.io/)
+ - [GAN LAB](https://poloclub.github.io/ganlab/)
 
 
 ## Vanilla GAN (DCGAN)
